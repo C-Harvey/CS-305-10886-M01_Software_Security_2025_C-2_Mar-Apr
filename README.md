@@ -2,7 +2,7 @@
 SNHU Software Security Portfolio Item
 
 **Client and Software Requirements**  
-Briefly summarize your client and its software requirements
+Briefly summarize your client and its software requirements.
 
 Artemis Financial is a company focused on helping clients manage their financial information securely. They needed help strengthening their software security and asked us to assess vulnerabilities and fix any weaknesses in their codebase. Their goal was to make sure their systems could protect sensitive client data and meet best practices for secure coding.
 
@@ -14,7 +14,7 @@ While working on Artemis Financial's project, I found and identified security vu
 **Challenges and Helpful Parts**  
 Which part of the vulnerability assessment was challenging or helpful?
 
-One part of the vulnerability assessment that stood out was working through the cryptography checks. It helped me understand where encryption could go wrong and how important key management is. Some parts of the testing process were time-consuming but gave me good practice finding hidden issues.
+One part of the vulnerability assessment that stood out was working through the cryptography checks. It helped me understand where encryption could go wrong and how important key management is. Some parts of the testing process were time-consuming, but gave me good practice in finding hidden issues.
 
 **Adding Layers of Security**  
 How did you add layers of security? What would you use in the future?
