@@ -1,10 +1,6 @@
 # CS-305-10886-M01_Software_Security_2025_C-2_Mar-Apr
 SNHU Software Security Portfolio Item
 
-# Artemis Financial Secure Software Report
-
-## Summary
-
 **Client and Software Requirements**  
 Briefly summarize your client and its software requirements
 
